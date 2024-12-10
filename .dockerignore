@@ -1,0 +1,21 @@
+# Flutter/Dart build files
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+flutter_build_log.txt
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# Docker
+Dockerfile*
